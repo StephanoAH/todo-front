@@ -1,0 +1,15 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+}
+
+.Label {
+  padding-left: 0.5em;
+}
+
+.Input {
+  margin: 1em 0.5em;
+}
+
+.CreateBtn {
+}
